@@ -144,6 +144,7 @@ function draw() {
     const textBoxWidth = 520;
     const textBoxHeight = 600;
 
+    push();
     if (gameState != "intro") {
         translate(offsetX, offsetY);
         image(backgrounds[gameState], 0, 0, canvasSize, canvasSize);  // Ensure background image fits the 800 x 800 canvas
@@ -162,7 +163,6 @@ function draw() {
             l.display();
         }
     }
-    push();
     // Draw the animated horse
     let horseX = 90;
     let horseY = canvasSize / 2 - 60;
