@@ -71,8 +71,8 @@ I wanted to get across how overwhelming it can feel being online in this day and
 - theres probably some typos in the text lol. it was so hard to format the text in code, especially splitting up each line manually by having to add a backwards slash + 'n' every. single. few. words.
 
 ### 🟪 Stage 5
-- Name/Alias: 
-- Github account:
-- Published webpage for stage 5:
+- Name/Alias: Ruiting Zhuang 
+- Github account: https://github.com/noon0v0
+- Published webpage for stage 5: https://noon0v0.github.io/exquisite-corpse-stage-5-Time-Jockey
 
-*... comments to be added here*
+
